@@ -1,4 +1,4 @@
-# CaptionBot-Walking Assistance for Visually Impaired
+# BlindBot-Walking Assistance for Visually Impaired
 It is a Deep Learning based project for visually impaired peoples. Visually impaired people face a lot of problems just in their day to day activities. Doing basic chores is a challenge in itself. In this project, we aim to provide a walking aid by making them aware of their surroundings through the help of audio devices such as headphones.
 I have identified 3 main tasks in this problem:
 1. Image Captioning
